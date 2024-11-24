@@ -1,0 +1,17 @@
+//
+//  LostTests.swift
+//  LostTests
+//
+//  Created by Ryan Ye on 11/23/24.
+//
+
+import Testing
+@testable import Lost
+
+struct LostTests {
+
+    @Test func example() async throws {
+        // Write your test here and use APIs like `#expect(...)` to check expected conditions.
+    }
+
+}
